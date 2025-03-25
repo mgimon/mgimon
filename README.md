@@ -13,9 +13,9 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
 ## 💻 Technologies I work with
 
 - **General Programming:** C, C++
-- **Frontend:** React, Next.js, JavaScript, HTML5, CSS3
+- **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Nginx
+- **Tools:** Git, Docker
 - **Operating Systems:** Linux, macOS, Windows
 
 ## 🚀 My projects
@@ -34,6 +34,8 @@ Here you can see some of my featured projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
 </p>
+
+<br>
 
 Thanks for visiting my profile! 🤝
 
