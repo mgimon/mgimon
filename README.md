@@ -31,8 +31,8 @@ Here you can see some of my featured projects:
 
 ## 📬 How to contact me?
 
-- **Email:** [miguelgimon@ejemplo.com](mailto:miguelgimon@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/miguelgimon](https://www.linkedin.com/in/miguelgimon)
+- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 Thanks for visiting my profile! 🤝
 
