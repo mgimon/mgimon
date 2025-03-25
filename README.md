@@ -22,12 +22,12 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
 
 Here you can see some of my featured projects:
 
-[**my Portfolio**](https://mgimon.vercel.app)
+[***my Portfolio***](https://mgimon.vercel.app)
 
 ## 📬 How to contact me
 
 - **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
+- **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 ## 📈 My activity
 
