@@ -22,7 +22,7 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
 
 Here you can see some of my featured projects:
 
-[**mgimon's Portfolio**](https://mgimon.vercel.app)
+[**my Portfolio**](https://mgimon.vercel.app)
 
 ## 📬 How to contact me
 
