@@ -1,19 +1,6 @@
 ## Hi there I'm Manu Gimon 👋
 
-I am a **Computer Science** student at [42](https://42.fr/), passionate about web development. I love creating interactive web applications and constantly learning new technologies. Here you can find some of my projects and contributions on GitHub.
-
-## 💻 Technologies I work with
-
-- **Frontend:** React, Next.js, JavaScript, HTML5, CSS3
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Nginx
-- **Operating Systems:** Linux, macOS, Windows
-
-## 🚀 My projects
-
-Here you can see some of my featured projects:
-
-- [**Personal Portfolio**](https://mgimon.vercel.app): My portfolio where I showcase my most recent work.
+I am a **Computer Science** student at [42](https://42.fr/), passionate about software and web development. I love creating interactive web applications and constantly learning new technologies. Here you can find some of my contributions on GitHub.
 
 ## 🏆 My achievements
 
@@ -28,6 +15,20 @@ Here you can see some of my featured projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
 </p>
+
+## 💻 Technologies I work with
+
+- **General Programming:** C, C++
+- **Frontend:** React, Next.js, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Nginx
+- **Operating Systems:** Linux, macOS, Windows
+
+## 🚀 My projects
+
+Here you can see some of my featured projects:
+
+- [**Personal Portfolio**](https://mgimon.vercel.app)
 
 ## 📬 How to contact me?
 
