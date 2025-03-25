@@ -36,6 +36,7 @@ Here you can see some of my featured projects:
 </p>
 
 <br>
+<br>
 
 Thanks for visiting my profile! 🤝
 
