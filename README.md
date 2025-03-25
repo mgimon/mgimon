@@ -24,16 +24,16 @@ Here you can see some of my featured projects:
 
 - [**Personal Portfolio**](https://mgimon.vercel.app)
 
+## 📬 How to contact me?
+
+- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
+
 ## 📈 My activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
 </p>
-
-## 📬 How to contact me?
-
-- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 Thanks for visiting my profile! 🤝
 
