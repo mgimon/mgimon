@@ -18,16 +18,16 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
 - **Tools:** Git, Docker
 - **Operating Systems:** Linux, macOS, Windows
 
-## 🚀 My projects
+## 🚀 My personal Portfolio
 
 Here you can see some of my featured projects:
 
-- [**Personal Portfolio**](https://mgimon.vercel.app)
+[**https://mgimon.vercel.app**](https://mgimon.vercel.app)
 
 ## 📬 How to contact me?
 
-- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
+**Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 ## 📈 My activity
 
@@ -35,7 +35,6 @@ Here you can see some of my featured projects:
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
 </p>
 
-<br>
 <br>
 
 Thanks for visiting my profile! 🤝
