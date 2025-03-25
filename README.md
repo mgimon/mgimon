@@ -24,7 +24,7 @@ Here you can see some of my featured projects:
 
 [**mgimon's Portfolio**](https://mgimon.vercel.app)
 
-## 📬 How to contact me?
+## 📬 How to contact me
 
 - **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
