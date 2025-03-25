@@ -10,12 +10,6 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
   </a>
 </p>
 
-## 📈 My activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
-</p>
-
 ## 💻 Technologies I work with
 
 - **General Programming:** C, C++
@@ -29,6 +23,12 @@ I am a **Computer Science** student at [42](https://42.fr/), passionate about so
 Here you can see some of my featured projects:
 
 - [**Personal Portfolio**](https://mgimon.vercel.app)
+
+## 📈 My activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
+</p>
 
 ## 📬 How to contact me?
 
