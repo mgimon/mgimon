@@ -1,6 +1,6 @@
 ## Hi there! I'm Manu Gimon 👋
 
-I am a **Computer Science** student at [42](https://42.fr/), passionate about software and web development. I love creating interactive web applications and constantly learning new technologies. Here you can find some of my contributions on GitHub.
+I am a **Computer Science** student at [42](https://42.fr/), passionate about software and web development. I love creating interactive web applications and constantly learning new technologies. Here you can find some of my contributions on GitHub :)
 
 ## 🏆 My achievements
 
@@ -37,5 +37,4 @@ Here you can see some of my featured projects:
 
 <br>
 
-Thanks for visiting my profile! 🤝
 
