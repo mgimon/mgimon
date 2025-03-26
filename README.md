@@ -12,7 +12,7 @@ I am Manu Gimon, a **Computer Science** student at [42](https://42.fr/), passion
 
 ## 💻 Technologies I work with
 
-- **General Programming:** C, C++
+- **General Programming:** C, C++ and Java
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB
 - **Tools:** Git, Docker
