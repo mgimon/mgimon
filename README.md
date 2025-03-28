@@ -12,9 +12,9 @@ I am Manu Gimon, a **Computer Science** student at [42](https://www.42network.or
 
 ## 💻 Technologies I work with
 
-- **General Programming:** C, C++ and Java
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB
+- **General Programming:** C, C++ and Java
 - **Tools:** Git, Docker
 - **Operating Systems:** Linux, macOS, Windows
 
