@@ -1,6 +1,10 @@
 ## Hi there! 👋
 
-I am Manu Gimon, a **Computer Science** student at [42](https://www.42network.org/about-us/digital-credentials/), passionate about software and web development. I love creating interactive web applications and constantly learning new technologies. Here you can find some of my contributions on GitHub :)
+I am Manu Gimon, a **Computer Science** student at [42](https://www.42network.org/about-us/digital-credentials/), passionate about software and web development.
+
+I love creating interactive web applications and constantly learning new technologies.
+
+Feel free to check out some of my contributions on GitHub :)
 
 ## 🏆 My achievements
 
