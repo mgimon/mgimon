@@ -16,7 +16,7 @@ Feel free to check out some of my contributions on GitHub :)
 
 <br>
 
-## 💻 Technologies I work with
+## 💻 Some technologies I work with
 
 - **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node.js, Express, MariaDB
