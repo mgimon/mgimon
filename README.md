@@ -6,6 +6,8 @@ I aim to develop effective and scalable web applications and solutions and I'm c
 
 Feel free to check out some of my contributions on GitHub :)
 
+<br>
+
 ## 💻 Some technologies I work with
 
 - **Frontend:** React, Next.js, TypeScript
@@ -14,7 +16,6 @@ Feel free to check out some of my contributions on GitHub :)
 - **Tools:** Git, Docker
 - **Operating Systems:** Linux, macOS, Windows
 
-<br>
 <br>
 
 Here you can see some of my featured projects:
