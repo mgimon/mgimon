@@ -6,6 +6,23 @@ I aim to develop effective and scalable web applications and solutions and I'm c
 
 Feel free to check out some of my contributions on GitHub :)
 
+## 💻 Some technologies I work with
+
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, Express, MariaDB
+- **General Programming:** C, C++ and Java
+- **Tools:** Git, Docker
+- **Operating Systems:** Linux, macOS, Windows
+
+<br>
+<br>
+
+Here you can see some of my featured projects:
+
+[***my Portfolio***](https://mgimon.vercel.app)
+
+<br>
+
 ## 📈 My activity
 
 <br>
@@ -16,15 +33,6 @@ Feel free to check out some of my contributions on GitHub :)
 
 <br>
 
-## 💻 Some technologies I work with
-
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Express, MariaDB
-- **General Programming:** C, C++ and Java
-- **Tools:** Git, Docker
-- **Operating Systems:** Linux, macOS, Windows
-
-<br>
 
 ## 🏆 My achievements
 
@@ -35,12 +43,6 @@ Feel free to check out some of my contributions on GitHub :)
 </p>
 
 <br>
-
-## 🚀 My personal Portfolio
-
-Here you can see some of my featured projects:
-
-[***my Portfolio***](https://mgimon.vercel.app)
 
 ## 📬 How to contact me
 
