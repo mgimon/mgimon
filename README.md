@@ -33,17 +33,11 @@
 <br>
 
 
-## 🏆 My achievements
+<!-- ## 🏆 My achievements
 
-<!-- <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover">
-    <img src="https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover" alt="mgimon's achievements" />
-  </a>
-</p> -->
+![](https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover)<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=mgimon&theme=radical)<br/>
-
-<br>
+<br> -->
 
 ## 📂 Featured projects
 
