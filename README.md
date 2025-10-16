@@ -42,12 +42,21 @@ Here you can see some of my featured projects:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
+  <!-- GitHub general stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Julypie7&show_icons=true&theme=radical" alt="Julypie7's GitHub stats" />
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=mgimon&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgimon7&theme=radical&hide_border=false)<br/>
-![mgimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgimon&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <!-- Full stats with commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Julypie7&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Julypie7's full stats" />
+</p>
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julypie7&theme=radical&hide_border=false" alt="Julypie7's streak stats" />
+</p>
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julypie7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Julypie7's top languages" />
+</p>
 
 <br>
 
