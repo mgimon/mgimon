@@ -47,10 +47,6 @@
 
 ## 📂 Featured projects
 
-<br>
-
-Here you can see some of my featured projects:
-
 [***my Portfolio***](https://mgimon.vercel.app)
 
 <br>
