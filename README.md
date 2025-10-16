@@ -1,8 +1,6 @@
 
 👩‍💻 [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) student
 
-<br>
-
 ## 💻 Some technologies I work with
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
