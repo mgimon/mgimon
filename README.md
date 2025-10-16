@@ -45,6 +45,10 @@ Here you can see some of my featured projects:
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=mgimon&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgimon7&theme=radical&hide_border=false)<br/>
+![mgimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgimon&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 <br>
 
 
