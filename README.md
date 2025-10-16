@@ -41,22 +41,18 @@ Here you can see some of my featured projects:
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <!-- GitHub stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Julypie7&show_icons=true&theme=radical" alt="Julypie7's GitHub stats" />
-    </td>
-    <td align="center">
-      <!-- Streak stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julypie7&theme=radical&hide_border=false" alt="Julypie7's streak stats" />
-    </td>
-    <td align="center">
-      <!-- Top languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julypie7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Julypie7's top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Julypie7&show_icons=true&theme=radical" alt="Julypie7's GitHub stats" />
+</p>
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julypie7&theme=radical&hide_border=false" alt="Julypie7's streak stats" />
+</p>
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julypie7&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Julypie7's top languages" />
+</p>
 
 <br>
 
