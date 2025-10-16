@@ -28,7 +28,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mgimon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mgimon&theme=radical&hide_border=false)<br/>
-![mgimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgimon&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![mgimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgimon&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <br>
 
