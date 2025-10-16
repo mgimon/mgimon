@@ -1,10 +1,5 @@
-## Hi there! 👋
 
-I am Manu Gimon, a **Computer Science** student at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/).
-
-I aim to develop effective and scalable web applications and solutions and I'm constantly learning new technologies.
-
-Feel free to check out some of my contributions on GitHub :)
+👩‍💻 [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) student
 
 <br>
 
@@ -29,14 +24,6 @@ Feel free to check out some of my contributions on GitHub :)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 
 
-<br>
-
-Here you can see some of my featured projects:
-
-[***my Portfolio***](https://mgimon.vercel.app)
-
-<br>
-
 ## 📈 My activity
 
 <br>
@@ -55,6 +42,16 @@ Here you can see some of my featured projects:
     <img src="https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover" alt="mgimon's achievements" />
   </a>
 </p>
+
+<br>
+
+## 📂 Featured projects
+
+<br>
+
+Here you can see some of my featured projects:
+
+[***my Portfolio***](https://mgimon.vercel.app)
 
 <br>
 
