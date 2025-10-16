@@ -41,19 +41,15 @@ Here you can see some of my featured projects:
 
 <br>
 
-<p align="center">
+<p align="left">
   <!-- GitHub general stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mgimon&show_icons=true&theme=radical" alt="mgimon's GitHub stats" />
-</p>
-<p align="center">
-  <!-- Full stats with commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mgimon&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="mgimon's full stats" />
 </p>
 <p align="center">
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgimon&theme=radical&hide_border=false" alt="mgimon's streak stats" />
 </p>
-<p align="center">
+<p align="right">
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgimon&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="mgimon's top languages" />
 </p>
