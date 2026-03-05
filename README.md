@@ -21,6 +21,7 @@
 ![macOS](https://img.shields.io/badge/macos-%23aaaaaa.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 
+<br>
 
 <!-- ## 📈 My activity
 
