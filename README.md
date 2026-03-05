@@ -22,7 +22,7 @@
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 
 
-## 📈 My activity
+<!-- ## 📈 My activity
 
 <br>
 
@@ -32,8 +32,7 @@
 
 <br>
 
-
-<!-- ## 🏆 My achievements
+## 🏆 My achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover)<br/>
 
