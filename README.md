@@ -4,7 +4,7 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## About Me
 
 - Software Engineer focused on **Full-Stack Web Development**, **Systems** and **Web Applications**
 - Interested in **system design**, **databases** and **scalable software architecture**
@@ -15,7 +15,7 @@
 
 <br>
 
-## 💻 Some technologies I work with
+## Some technologies I work with
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
