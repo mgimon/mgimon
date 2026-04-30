@@ -52,13 +52,13 @@
 
 <br> -->
 
-## 📂 Featured projects
+## Featured projects
 
-[***my Portfolio***](https://mgimon.vercel.app)
+📂 [***my Portfolio***](https://mgimon.vercel.app)
 
 <br>
 
-## 📬 How to contact me
+## How to contact me
 
 - **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
