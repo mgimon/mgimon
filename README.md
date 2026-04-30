@@ -1,5 +1,17 @@
 
-👩‍💻 [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) student
+<h1 align="center">Hi there 👋, I'm Manu Gimon</h1>
+<h3 align="center">Software Engineer | Web, Systems & DevOps | 42 Barcelona Cadet</h3>
+
+
+## 🧑‍💻 About Me
+
+- 🔹 Software Engineer focused on **Full-Stack Web Development**, **Systems** and **Web Applications**
+- 🔹 Interested in **system design**, **databases** and **scalable software architecture**
+- 🔹 Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
+- 🔹 Fluent in **Spanish, English, French** and conversational in **Catalan**
+- 🔹 Passionate about building **reliable, maintainable and well-structured software**
+- 🔹 Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
+
 
 ## 💻 Some technologies I work with
 
