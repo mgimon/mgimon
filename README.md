@@ -8,11 +8,11 @@
 
 ## About Me
 
-- Software Engineer focused on **Full-Stack Web Development**, **Systems** and **Web Applications**
-- Interested in **system design**, **databases** and **scalable software architecture**
-- Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
-- Fluent in **Spanish, English, French** and conversational in **Catalan**
-- Passionate about building **reliable, maintainable and well-structured software**
+- 🧑 Software Engineer focused on **Full-Stack Web Development**, **Systems** and **Web Applications**
+- 💻 Interested in **system design**, **databases** and **scalable software architecture**
+- 🔧 Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
+- 🌍 Fluent in **Spanish, English, French** and conversational in **Catalan**
+- 🧩 Passionate about building **reliable, maintainable and well-structured software**
 - Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
 <br>
