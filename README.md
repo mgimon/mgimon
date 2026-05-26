@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🧑 Software Engineer focused on **Full-Stack Web Development**, **Systems** and **Web Applications**
+- 🧑 Software Engineer focused on **Full-Stack Web Development** and **Software Solutions**
 - 💻 Interested in **system design**, **databases** and **scalable software architecture**
 - 🔧 Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
 - 🌍 Fluent in **Spanish, English, French** and conversational in **Catalan**
