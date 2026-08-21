@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Manu</h1>
-<h3 align="center">Software Engineer | Web Architecture | 42 Barcelona Cadet</h3>
+<h3 align="center">Backend Developer | Web Architecture | 42 Barcelona Cadet</h3>
 
 ---
 
