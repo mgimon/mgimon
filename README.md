@@ -11,7 +11,7 @@
 - 🧑 Software Engineer focused on **Software Architecture** and **Full-Stack Web Development**
 - 💻 Interested in **system design**, **databases** and **scalable software architecture**
 - 🔧 Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
-- 🌍 Fluent in **Spanish, English, French** and conversational in **Catalan**
+- 🌍 Fluent in **English, Spanish, French** and conversational in **Catalan**
 - 🧩 Passionate about building **reliable, maintainable and well-structured software**
 - Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
