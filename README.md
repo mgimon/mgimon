@@ -8,16 +8,24 @@
 
 ## About Me
 
-- 🧑 Software Engineer focused on **Software Architecture** and **Full-Stack Web Development**
-- 💻 Interested in **system design**, **databases** and **scalable software architecture**
-- 🔧 Experience building projects involving **containerized environments** and **continuous integration/deployment (CI/CD)**
-- 🌍 Fluent in **English, Spanish, French** and conversational in **Catalan**
-- 🧩 Passionate about building **reliable, maintainable and well-structured software**
+I solve complex technical challenges and contribute to the development of scalable solutions within the industry.
+
 - Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
 <br>
 
-## Some technologies I work with
+## Featured projects
+
+📂 [***my Portfolio***](https://mgimon.vercel.app)
+
+<br>
+
+## How to contact me
+
+- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
+
+## Technologies I work with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -55,17 +63,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover)<br/>
 
 <br> -->
-
-## Featured projects
-
-📂 [***my Portfolio***](https://mgimon.vercel.app)
-
-<br>
-
-## How to contact me
-
-- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 
 <br>
