@@ -10,7 +10,7 @@
 
 I solve complex technical challenges and contribute to the development of scalable solutions within the industry.
 
-My experience includes **software architecture**, **databases** and **system design**, with a focus on **CI/CD** and **automation**.
+My experience includes **software architecture**, **databases** and **system design**, with a strong focus on **CI/CD** and **automation**.
 
 
 <br>
