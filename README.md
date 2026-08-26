@@ -10,7 +10,8 @@
 
 I solve complex technical challenges and contribute to the development of scalable solutions within the industry.
 
-Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
+My experience includes **software architecture**, **databases** and **system design**, with a focus on **CI/CD** and **automation**.
+
 
 <br>
 
