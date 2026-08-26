@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Manu</h1>
-<h3 align="center">Backend Developer | Web Architecture | 42 Barcelona Cadet</h3>
+<h3 align="center">Full-Stack Developer | Distributed Systems & Automation | Python, Django & Java</h3>
 
----
+<!--  ---  -->
 
 <br>
 
@@ -12,6 +12,7 @@ I solve complex technical challenges and contribute to the development of scalab
 
 Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
+<br>
 <br>
 
 ## Technologies I work with
@@ -36,7 +37,6 @@ Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-
 ![macOS](https://img.shields.io/badge/macos-%23aaaaaa.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
 
-<br>
 
 <!-- ## 📈 My activity
 
