@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Manu</h1>
-<h3 align="center">Full-Stack Developer | Distributed Systems & Automation | Python, Django & Java</h3>
+<h3 align="center">Full-Stack Developer | Distributed Systems | Python, Django & Java</h3>
 
 <!--  ---  -->
 
@@ -12,7 +12,6 @@ I solve complex technical challenges and contribute to the development of scalab
 
 Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
-<br>
 <br>
 
 ## Technologies I work with
