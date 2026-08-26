@@ -8,9 +8,9 @@
 
 ## About Me
 
-I solve complex technical challenges and contribute to the development of scalable solutions within the industry. I have an ability to communicate information clearly and concisely, which allows me to work effectively with both technical and non-technical teams.
+I solve complex technical challenges and contribute to the development of scalable solutions within the industry.
 
-My experience includes **software architecture**, **databases** and **system design**, with a strong focus on **CI/CD** and **automation**.
+I have an ability to communicate information clearly and concisely, which allows me to work effectively with both technical and non-technical teams. My experience includes **software architecture**, **databases** and **system design**, with a strong focus on **CI/CD** and **automation**.
 
 
 <br>
