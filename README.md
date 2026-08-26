@@ -10,20 +10,9 @@
 
 I solve complex technical challenges and contribute to the development of scalable solutions within the industry.
 
-- Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
+Currently studying at [42 Barcelona](https://www.42network.org/about-us/digital-credentials/) 
 
 <br>
-
-## Featured projects
-
-📂 [***my Portfolio***](https://mgimon.vercel.app)
-
-<br>
-
-## How to contact me
-
-- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
 
 ## Technologies I work with
 
@@ -63,6 +52,15 @@ I solve complex technical challenges and contribute to the development of scalab
 ![](https://github-profile-trophy.vercel.app/?username=mgimon&theme=dark_lover)<br/>
 
 <br> -->
+
+<br>
+
+
+## See more:
+
+- **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
+- **Portfolio:** [mgimon.vercel.app](https://mgimon.vercel.app)
 
 
 <br>
