@@ -58,8 +58,7 @@ I have an ability to communicate information clearly and concisely, which allows
 
 - **Email:** [m.gimoncaballero@gmail.com](mailto:m.gimoncaballero@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mgimon-c/](https://www.linkedin.com/in/mgimon-c/)
-- **Portfolio:** [mgimon.vercel.app](https://mgimon.vercel.app)
-
+<!--  **Portfolio:** [mgimon.vercel.app](https://mgimon.vercel.app) -->
 
 <br>
 
